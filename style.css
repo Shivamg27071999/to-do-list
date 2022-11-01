@@ -1,0 +1,32 @@
+body{
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("white-gold-geometric-pattern-background-vector_53876-140726.webp")
+}
+.container{
+    margin-left: 50rem;
+    width: 350px;
+}
+#inputd{
+border:none;
+border-bottom: 1px solid black;
+background: transparent;
+height: 30px;
+width: 250px;
+}
+h2{
+    font-size: 36px;
+    font-family: "Georgia, 'Times New Roman', Times, serif";
+    color:brown;
+    font-style: italic;
+
+}
+#adddata{
+    margin-left: 45rem;
+    margin-top: 100px;
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
